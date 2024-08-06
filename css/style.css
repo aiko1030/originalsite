@@ -87,7 +87,7 @@ main {
 
 .cafe-icon {
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 55%;
   -ms-transform: translate(-65%, -55%);
   -webkit-transform: translate(-65%, -55%);
